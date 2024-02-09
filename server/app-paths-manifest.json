@@ -1,0 +1,14 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/[id]/page": "app/[id]/page.js",
+  "/home/page": "app/home/page.js",
+  "/page": "app/page.js",
+  "/categories/page": "app/categories/page.js",
+  "/wishList/page": "app/wishList/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/about/page": "app/about/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/productDeta/[id]/page": "app/productDeta/[id]/page.js",
+  "/cart/page": "app/cart/page.js"
+}
